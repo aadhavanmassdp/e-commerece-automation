@@ -125,6 +125,3 @@ public class BasicTest {
 * Integrate with reporting tools (ExtentReports, Allure).
 * Run tests in CI/CD pipelines for continuous validation.
 
----
-
-Would you like me to make this README **language-specific (like only for Python or only for Java)**, or should I keep it **generic covering both**?
